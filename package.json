@@ -1,0 +1,33 @@
+{
+	"name": "my-webpack-project",
+	"private": true,
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"test": "vitest",
+		"dev": "vite",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"leaflet": "^1.9.3",
+		"leaflet-routing-machine": "^3.2.12",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-leaflet": "^4.2.0",
+		"react-router-dom": "^6.8.1",
+		"react-to-print": "^2.14.12",
+		"react-uuid": "^2.0.0"
+	},
+	"devDependencies": {
+		"@types/react": "^18.0.27",
+		"@types/react-dom": "^18.0.10",
+		"@vitejs/plugin-react": "^3.1.0",
+		"css-loader": "^6.7.3",
+		"sass": "^1.58.3",
+		"sass-loader": "^13.2.0",
+		"style-loader": "^3.3.1",
+		"vite": "^4.1.0",
+		"vitest": "^0.28.5"
+	},
+	"description": "My webpack project"
+}
