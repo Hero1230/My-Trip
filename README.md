@@ -1,4 +1,4 @@
-# MyTrip 🚙
+# My-Trip 🚖
 
 Live: https://my-trip-azure.vercel.app/
 
