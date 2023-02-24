@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./pages/home/Home";
 import Map from "./pages/map/Map";
-import "./index.css";
+import "./index.scss";
 import { TripDetailsContextProvider } from "./context/TripDetailsContext";
 import { TripsHistoryContextProvider } from "./context/TripsHistoryContex";
 
