@@ -2,7 +2,7 @@ name: Runs All Unit tests
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build:
